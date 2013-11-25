@@ -1,0 +1,11 @@
+f = open("out.txt","w") # Open file for writing
+year = 0
+pri  = 0
+principal = 0
+numyears = 12
+rate = .23
+while year <= numyears:
+    pri = principal * (1 + rate)
+    print >>f,"%3d %0.2f %0.2f" % (year,pri,rate)
+    year += 1
+f.close()
