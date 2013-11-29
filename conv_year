@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+def ly(x):
+ x= x/(9.46 *10**12) 
+valor = input("Ingrese la cantidad de años luz:")
+
+print "Usted ingreso: " + valor + "!”
