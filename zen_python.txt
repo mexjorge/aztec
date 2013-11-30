@@ -1,0 +1,19 @@
+Hermoso es mejor que feo.
+Explícito es mejor que implícito.
+Simple es mejor que complejo.
+Complejo es mejor que complicado.
+Plano es mejor que anidado.
+Disperso es mejor que denso.
+Recuentos de legibilidad.
+Los casos especiales no son lo suficientemente especial a romper las reglas.
+Aunque practicidad late pureza.
+Los errores no deben pasar en silencio.
+A menos que explícitamente silenciados.
+Ante la ambigüedad, rechaza la tentación de adivinar.
+Debe haber uno y preferiblemente sólo una manera obvia de hacerlo.
+Aunque esa manera puede no ser obvia en un primer momento a menos que seas holandés.
+Ahora es mejor que nunca.
+Aunque nunca es a menudo mejor que la * derecha * ahora.
+Si la implementación es difícil de explicar, es una mala idea.
+Si la aplicación es fácil de explicar, puede ser una buena idea.
+Los espacios de nombres son una gran idea para tocar la bocina - vamos a hacer más de esos!
