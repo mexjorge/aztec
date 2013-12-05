@@ -18,4 +18,7 @@ while True:
         print caracter+"\n"
     else:
         print "Se encontro %s en %s veces" % (caracter,contador)
+        print "hola"
+
+
         sys.exit(1)
